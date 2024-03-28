@@ -1,4 +1,4 @@
-import { ListNode } from "./list-node";
+import { ListNode } from "../list-node";
 
 function addTwoNumbers(l1: ListNode | null, l2: ListNode | null): ListNode | null {
   let carry = 0;
